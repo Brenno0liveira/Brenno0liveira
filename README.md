@@ -4,7 +4,7 @@
 
 - 🔭 Estou atualmente desenvolvendo sistemas em [Java + MySQL](https://github.com/Brenno0liveira?tab=repositories)
 
-- 👨🏼‍🎓 Cursando **Analise e Desenvolvimento de Sistemas.**
+- 👨🏼‍🎓 Cursando **Análise e Desenvolvimento de Sistemas.**
 
 - 📺 Assista as demonstrações dos meus projetos: [https://www.youtube.com/channel/UC1PVunrRcQhEx_iHNZFGmBw](https://www.youtube.com/channel/UC1PVunrRcQhEx_iHNZFGmBw)
 
